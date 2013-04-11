@@ -1,8 +1,9 @@
 ---
 layout: default
 category: section
-title: noticias
+title: "notiv¡cias"
 
+published: true
 ---
 
 # How does it work?
