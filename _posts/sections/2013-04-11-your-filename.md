@@ -2,7 +2,7 @@
 layout: default
 category: section
 title: "noticias"
-
+<a href="http://www.flickr.com/photos/lgpueyo/4328452662/" title="Mies van der Rohe pavillion por lgpueyo, en Flickr"><img src="http://farm3.staticflickr.com/2505/4328452662_72f50683dc.jpg" width="500" height="375" alt="Mies van der Rohe pavillion"></a>
 published: true
 ---
 
