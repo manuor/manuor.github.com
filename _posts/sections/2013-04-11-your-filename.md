@@ -1,7 +1,7 @@
 ---
 layout: default
 category: section
-title: "notiv¡cias"
+title: "noticias"
 
 published: true
 ---
